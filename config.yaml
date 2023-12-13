@@ -1,0 +1,8 @@
+folder_in: /home/ledebo/folder_in
+folder_out: /home/ledebo/folder_out
+folder_ex: /home/ledebo/folder_ex
+folder_ex2: /home/ledebo/folder_ex2
+folder_ex3: /home/ledebo/folder_ex3
+count_file: 3
+size_file: 3M
+name_of_arch: '*.7z'
